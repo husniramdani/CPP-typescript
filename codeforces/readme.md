@@ -1,0 +1,1 @@
+Gunakan input txt untuk membaca inputan test case
